@@ -3,7 +3,7 @@
 This project finds all selective drug targets among different microorgansms.
 
 ### Requirements
-The following tools are needed to use RapidSL for finding synthetic lethal sets:
+The following tools are needed to run this project:
 1. [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/)
 2. CPLEX v12.9.0.
 
